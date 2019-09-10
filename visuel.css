@@ -1,0 +1,168 @@
+IMG.logo {
+    text-align:center;
+    margin-top: 200px;
+    margin-left: 550px;
+    width: 20em;
+    }
+
+ .recherche_p{
+ 	text-align:center;
+    margin-top: 10px;
+    margin-left: 450px;
+    width: 20em;
+ }
+
+ #searchthis #search {
+ 	width: 200%;
+ 	box-sizing: border-box;
+ 	border-radius: 6px
+}
+
+a.bouton1 {
+padding: 10px 30px; 
+background: #F0EFEF; 
+color: #868484; 
+border-radius: 6px;
+text-decoration: none;
+margin-top: 200px;
+margin-left: 580px;
+}
+a.bouton1:hover {
+background: #e5e5e5;
+color: black;
+border: 2px solid #979494; 
+border-radius: 6px;
+text-decoration: none;
+}
+
+a.bouton2 {
+padding: 10px 30px; 
+background: #F0EFEF; 
+color: #868484; 
+border-radius: 6px;
+text-decoration: none;
+}
+a.bouton2:hover {
+background: #e5e5e5;
+color: black;
+border: 2px solid #979494; 
+border-radius: 11px;
+text-decoration: none;
+}
+
+.header
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -400px;
+}
+
+a.mail {
+color: black;
+text-decoration: none;
+}
+
+a.mail:hover {
+text-decoration: underline;
+}
+
+a.images {
+color: black;
+text-decoration: none;
+}
+
+a.images:hover {
+text-decoration: underline;
+}
+
+a.connexion {
+padding: 10px 30px; 
+background: #3859E3; 
+color: white; 
+border-radius: 3px;
+text-decoration: none;
+}
+
+.footer
+{
+    background:#ECECEC;
+    margin-top: 700px;
+  }
+
+.info {
+	display: flex;
+	justify-content: flex-end;
+}
+
+
+  a.publicite {
+color: #656565;
+text-decoration: none;
+}
+a.publicite:hover {
+color: #656565;
+text-decoration: underline;
+}
+
+a.entreprise {
+color: #656565;
+text-decoration: none;
+}
+a.entreprise:hover {
+color: #656565;
+text-decoration: underline;
+}
+
+a.propos {
+color: #656565;
+text-decoration: none;
+}
+a.propos:hover {
+color: #656565;
+text-decoration: underline;
+}
+
+a.fonction {
+color: #656565;
+text-decoration: none;
+}
+a.fonction:hover {
+color: #656565;
+text-decoration: underline;
+}
+
+a.infos {
+color: #656565;
+text-decoration: none;
+}
+a.infos:hover {
+color: #656565;
+text-decoration: underline;
+}
+
+a.confidentialite {
+color: #656565;
+text-decoration: none;
+}
+a.confidentialite:hover {
+color: #656565;
+text-decoration: underline;
+}
+
+a.conditions {
+color: #656565;
+text-decoration: none;
+}
+a.conditions:hover {
+color: #656565;
+text-decoration: underline;
+}
+
+a.parametre {
+color: #656565;
+text-decoration: none;
+}
+a.info:parametre {
+color: #656565;
+text-decoration: underline;
+}
